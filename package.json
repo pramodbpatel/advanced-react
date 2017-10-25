@@ -1,0 +1,9 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Advanced React",
+  "main": "lib/server.js",
+  "repository": "advanced-react",
+  "author": "Pramod Patel",
+  "license": "MIT"
+}
